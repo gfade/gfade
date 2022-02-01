@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gfade
-- 👀 I’m interested in data science, sci-fi, machine learning 
-- 🌱 I’m currently learning assembly
-- 💞️ I’m looking to collaborate on machine learning 
+- 👀 I’m interested in data science, sci-fi novels, and machine learning 
+- 🌱 I’m currently learning graph neural networks and reinforcement learning techniques 
+- 💞️ I’m looking to collaborate on anything with machine learning 
 
 
 <!---
